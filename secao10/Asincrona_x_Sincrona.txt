@@ -1,0 +1,22 @@
+A linguagem Javascript é single-thread 
+isso significa que essa linguagem utiliza uma unica 
+thread para executar seu programa.
+
+Assíncrona x Síncrona
+
+Síncrona 
+
+Como a linguagem é single-thread, isso significa que
+os comandos são executados em sequência, um após o 
+outro. Entretanto, dependendo do código escrito é 
+o javascript só irá executar os códigos seguintes 
+após, terminar a execução do primeiro.
+
+Assíncrona
+
+Com a programação assíncrona, os eventos laçados pela linguagem
+são executados, sem a necessidade de ter que aguardar sua finalização,
+lançando assim o evento seguinte mesmo que não tenha finalizado o primeiro.
+
+Isso elimina o bloqueio, que é gerado quando trabalhamos com o Javascript 
+Síncrono.
