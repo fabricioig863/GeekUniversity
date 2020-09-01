@@ -7,3 +7,8 @@
 //     }
 // }
 // pares_no_intervalo(1,42)
+
+// 3)
+function sabe_javascript(habilidades){
+    
+}

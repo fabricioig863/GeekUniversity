@@ -2,7 +2,7 @@
     Utilizamos o map para realizar transformações em um array.
     Você tem um array com determinados valores, você utiliza o map, para mapear 
     os dados de um array e aplicar a transformação, gerando um array de mesmo 
-    tamanho com os dados trasformados.
+    tamanho com os dados transformados.
 */
 var valores = [2, 4, 8, 6, 10];
 

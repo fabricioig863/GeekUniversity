@@ -36,7 +36,7 @@ var ret = precos.reduce(somar);
     3 = 18.22 + 1.34 => 19.56
     4 = 19.56 + 5.32 => 24.88
 
-    O reduce reduz o valor em apenas 1 único valor, seria o resultado.
+    O reduce reduz o valor em apenas 1 único valor, gerando o resultado.
 */
 
     // Exemplo map/reduce
