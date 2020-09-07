@@ -1,3 +1,4 @@
+//Arrow Function 
 // Forma 1
 function somar1(num1,num2){
     return num1 + num2
